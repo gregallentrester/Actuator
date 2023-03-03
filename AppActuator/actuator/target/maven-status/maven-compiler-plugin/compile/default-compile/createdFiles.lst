@@ -1,0 +1,5 @@
+com/example/actuator/controller/Controller.class
+com/example/actuator/App.class
+com/example/actuator/readout/Publisher.class
+com/example/actuator/config/ActuatorSecurityConfig.class
+com/example/actuator/health/CustomHealthIndicator.class
